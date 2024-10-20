@@ -1,0 +1,47 @@
+body{
+    margin:15px;
+    line-height: 1.5;
+    height:100vh;
+    font-family: Roboto;
+    padding: 10px;
+    margin-bottom: 600px;
+    font-size: 1.5em;
+}
+#name_container{
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+    background-color: grey;
+    min-height: 100px;
+    align-items: center;  
+
+}
+
+#personal_details{
+    display: flex;
+    background-color: grey;
+    justify-content: flex-end;
+    padding: 0px 10px 10px 0px;
+}
+#personal_detailsText{
+    font-size: 1em;
+    color: black;
+    word-wrap: break-word;
+    text-decoration: none;
+    
+}
+.heading{
+    font-size: 1.5em;
+    margin:10px;
+}
+#summaryText{
+    margin:10px;
+
+}
+.projectName{
+    font-size:1.2em;
+    margin: 0px 10px
+}
+.timeline{
+    margin:0px 10px;
+}
